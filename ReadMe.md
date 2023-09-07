@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about technology and the realm of development, I'm constantly exploring new frontiers. 🚀 My current focus is on honing my skills as a Python🐍 developer, bringing creativity and efficiency to every project I tackle. 💡🔧
+Passionate about technology and the realm of development, I'm constantly exploring new frontiers. 🚀 My current focus is on honing my skills as a Python developer, bringing creativity and efficiency to every project I tackle. 💡🔧
 
 
 ## 🌐 Socials:
